@@ -10,7 +10,7 @@
     "lint": "eslint src"
   },
   "dependencies": {
-    "core-js": "^3.10.1",
+    "core-js": "^3.19.1",
     "@kintone/rest-api-client": "^1.13.0"
   },
   "devDependencies": {
